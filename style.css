@@ -1,0 +1,58 @@
+body{
+    background-color:gray;
+}
+    
+h1{
+    font-family:cursive;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+h4{
+    color: red;
+    font-weight: bolder;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid black;
+    
+}
+
+#resultRow
+{
+    padding-right: 500px;
+    display: flex;
+    
+}
+
+img:hover
+{
+    border-radius: 70px;
+}
+
+.coppy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:white;
+    line-height: 2;
+    font-size: 20px;
+}
+
+img
+{
+    height: 400px;
+    width: 600px;
+    box-sizing: 0 6px 8px 0 rgba(2,2,2,0.2);
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 10px ridge steelblue;
+    font-weight: bolder;
+}
+
+
